@@ -1,8 +1,7 @@
 #!/bin/bash
 
-# Input from user
-echo -n "Enter Number: "
-read n
+# Taking input from command line
+n=$1
 
 # Checking input
 if [ -z $n ]; then
@@ -11,6 +10,8 @@ if [ -z $n ]; then
 fi
 
 # Printing table
-for i in {1..10}; do
+i=1
+while [ $i -lt 11 ]; do
   echo "$n x $i = $(($n * $i))"
+  i=$(( $i + 1 ))
 done
