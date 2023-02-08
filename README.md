@@ -4,7 +4,7 @@
 ### Question 1
 ![question 1 output](https://github.com/aayusss2101/Command-Line-Assignment/blob/main/Screenshots/question1.png)
 ### Question 2
-![question 2 output](https://github.com/aayusss2101/Command-Line-Assignment/blob/main/Screenshots/question2.png)
+
 ### Question 3
 ![question 3 output](https://github.com/aayusss2101/Command-Line-Assignment/blob/main/Screenshots/question3.png)
 ### Question 4
