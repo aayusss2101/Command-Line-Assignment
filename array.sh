@@ -15,9 +15,9 @@ getMaxAndMin(){
   # Array argument
   arr=("$@")
   # Variable to store maximum element
-  maxElem=-1000
+  maxElem=${arr[0]}
   # Variable to store minimum element
-  minElem=1000
+  minElem=${arr[0]}
   # Looping throught the array
   for i in ${arr[@]}; do
     # Checking if greater
