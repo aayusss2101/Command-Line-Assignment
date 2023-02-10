@@ -1,8 +1,13 @@
 ##Peer Review
+
 <br/>
+
 ###Mohan Gundluri
+
 <br/>
+
 **Question 1**
+
 - He has used the date function with different formatting to get date and time
 - He has used the whoami command to get the current user, alternatively he could have used the environment variable USER to do so.
 - He has used the environment variable HOME to get the home directory.
